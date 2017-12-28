@@ -1,4 +1,4 @@
 
-set(CN_PROJECT_NAME "coinscience")
-set(CN_CURRENCY_DISPLAY_NAME "CoInSCience")
+set(CN_PROJECT_NAME "coinscientia")
+set(CN_CURRENCY_DISPLAY_NAME "CoInSCientia")
 set(CN_CURRENCY_TICKER "CISC")
